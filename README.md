@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @yuto-alive
-- 👀 I’m interested in coding ...
-- 🌱 I’m currently learning C++...
-- 📫 How to reach me: reddit...
-- ⚡ Fun fact: alive ...
+<h1 align="center">BCA student exploring technology.</h1>
 
-<!---
-yuto-alive/yuto-alive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  🎧 Music & Rock · 🎮 Games · 🎬 Cinema · Pop Culture
+</p>

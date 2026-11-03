@@ -1,3 +1,3 @@
-<p align="center" style="margin:0; padding:0; font-size:0; line-height:0;">
-<img src="./B.gif" width="250" height="250"><img src="./black.jpg" width="250" height="250"><img src="./black.jpg" width="250" height="250"><img src="./B.gif" width="250" height="250">
+<p align="center">
+  <img src="./C.gif" width="350"><img src="./D.gif" width="350">
 </p>
